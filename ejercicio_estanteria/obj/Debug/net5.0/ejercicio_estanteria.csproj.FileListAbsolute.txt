@@ -1,0 +1,16 @@
+C:\Users\pit_t\source\repos\ejercicio_estanteria\obj\Debug\net5.0\ejercicio_estanteria.csproj.AssemblyReference.cache
+C:\Users\pit_t\source\repos\ejercicio_estanteria\obj\Debug\net5.0\ejercicio_estanteria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pit_t\source\repos\ejercicio_estanteria\obj\Debug\net5.0\ejercicio_estanteria.AssemblyInfoInputs.cache
+C:\Users\pit_t\source\repos\ejercicio_estanteria\obj\Debug\net5.0\ejercicio_estanteria.AssemblyInfo.cs
+C:\Users\pit_t\source\repos\ejercicio_estanteria\obj\Debug\net5.0\ejercicio_estanteria.csproj.CoreCompileInputs.cache
+C:\Users\pit_t\source\repos\ejercicio_estanteria\bin\Debug\net5.0\ejercicio_estanteria.exe
+C:\Users\pit_t\source\repos\ejercicio_estanteria\bin\Debug\net5.0\ejercicio_estanteria.deps.json
+C:\Users\pit_t\source\repos\ejercicio_estanteria\bin\Debug\net5.0\ejercicio_estanteria.runtimeconfig.json
+C:\Users\pit_t\source\repos\ejercicio_estanteria\bin\Debug\net5.0\ejercicio_estanteria.runtimeconfig.dev.json
+C:\Users\pit_t\source\repos\ejercicio_estanteria\bin\Debug\net5.0\ejercicio_estanteria.dll
+C:\Users\pit_t\source\repos\ejercicio_estanteria\bin\Debug\net5.0\ref\ejercicio_estanteria.dll
+C:\Users\pit_t\source\repos\ejercicio_estanteria\bin\Debug\net5.0\ejercicio_estanteria.pdb
+C:\Users\pit_t\source\repos\ejercicio_estanteria\obj\Debug\net5.0\ejercicio_estanteria.dll
+C:\Users\pit_t\source\repos\ejercicio_estanteria\obj\Debug\net5.0\ref\ejercicio_estanteria.dll
+C:\Users\pit_t\source\repos\ejercicio_estanteria\obj\Debug\net5.0\ejercicio_estanteria.pdb
+C:\Users\pit_t\source\repos\ejercicio_estanteria\obj\Debug\net5.0\ejercicio_estanteria.genruntimeconfig.cache
