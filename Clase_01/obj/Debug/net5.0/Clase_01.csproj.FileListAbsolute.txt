@@ -1,0 +1,16 @@
+C:\Users\pit_t\source\repos\Ejercicios Laboratorio y programacion 2\Clase_01\obj\Debug\net5.0\Clase_01.csproj.AssemblyReference.cache
+C:\Users\pit_t\source\repos\Ejercicios Laboratorio y programacion 2\Clase_01\obj\Debug\net5.0\Clase_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pit_t\source\repos\Ejercicios Laboratorio y programacion 2\Clase_01\obj\Debug\net5.0\Clase_01.AssemblyInfoInputs.cache
+C:\Users\pit_t\source\repos\Ejercicios Laboratorio y programacion 2\Clase_01\obj\Debug\net5.0\Clase_01.AssemblyInfo.cs
+C:\Users\pit_t\source\repos\Ejercicios Laboratorio y programacion 2\Clase_01\obj\Debug\net5.0\Clase_01.csproj.CoreCompileInputs.cache
+C:\Users\pit_t\source\repos\Ejercicios Laboratorio y programacion 2\Clase_01\bin\Debug\net5.0\Clase_01.exe
+C:\Users\pit_t\source\repos\Ejercicios Laboratorio y programacion 2\Clase_01\bin\Debug\net5.0\Clase_01.deps.json
+C:\Users\pit_t\source\repos\Ejercicios Laboratorio y programacion 2\Clase_01\bin\Debug\net5.0\Clase_01.runtimeconfig.json
+C:\Users\pit_t\source\repos\Ejercicios Laboratorio y programacion 2\Clase_01\bin\Debug\net5.0\Clase_01.runtimeconfig.dev.json
+C:\Users\pit_t\source\repos\Ejercicios Laboratorio y programacion 2\Clase_01\bin\Debug\net5.0\Clase_01.dll
+C:\Users\pit_t\source\repos\Ejercicios Laboratorio y programacion 2\Clase_01\bin\Debug\net5.0\ref\Clase_01.dll
+C:\Users\pit_t\source\repos\Ejercicios Laboratorio y programacion 2\Clase_01\bin\Debug\net5.0\Clase_01.pdb
+C:\Users\pit_t\source\repos\Ejercicios Laboratorio y programacion 2\Clase_01\obj\Debug\net5.0\Clase_01.dll
+C:\Users\pit_t\source\repos\Ejercicios Laboratorio y programacion 2\Clase_01\obj\Debug\net5.0\ref\Clase_01.dll
+C:\Users\pit_t\source\repos\Ejercicios Laboratorio y programacion 2\Clase_01\obj\Debug\net5.0\Clase_01.pdb
+C:\Users\pit_t\source\repos\Ejercicios Laboratorio y programacion 2\Clase_01\obj\Debug\net5.0\Clase_01.genruntimeconfig.cache
